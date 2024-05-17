@@ -31,7 +31,7 @@ Les variables suivantes peuvent être ajustées pour personnaliser le profil 3D 
 
 Voici un exemple de graphique généré par le code :
 
-![Profil 3D du Guide d'Onde](chemin_vers_image/profil_3d_guide_donde.png)
+![Capture 1](https://github.com/Enzo77360/3D-OpticalWaveguide/blob/main/Images/Capture%20d’écran%202024-05-17%20à%2014.53.44.png)
 
 ## Contributions
 
